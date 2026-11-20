@@ -223,7 +223,7 @@ Planned improvements:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/financial-fraud-detection.git
+git clone https://github.com/magdalenachmaj/financial-fraud-detection.git
 cd financial-fraud-detection
 ```
 
